@@ -24,6 +24,9 @@ Pioneer helps you plan your day interactively by:
 - Activities sorted by priority.
 - Schedule is both saved and displayed.
 - Automatic reminders using `cron`.
+- Exit At any step, if you type: exit
+The program will safely stop and exit immediately.
+This gives you full control to leave whenever you want — no pressure!
 
 ## 🛠 Requirements
 
