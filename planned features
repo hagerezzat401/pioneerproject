@@ -1,0 +1,12 @@
+# 📝 TODO for Pioneer Project
+
+This file contains planned improvements and future features for the project.
+
+- [ ] Add option to export the final schedule to PDF or .csv format.
+- [ ] Allow editing or removing activities after input.
+- [ ] Let users choose custom notification sounds.
+- [ ] Add a setting to repeat daily schedule automatically.
+- [ ] Support for saving multiple schedules by name (e.g., "Exam Day", "Weekend", etc.)
+- [ ] Add estimated productivity tips based on entered schedule.
+- [ ] Build a GUI version using Zenity or Yad (still Bash-based).
+- [ ] Integrate with calendar apps (e.g., Google Calendar via API).
