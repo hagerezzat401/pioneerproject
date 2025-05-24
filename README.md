@@ -38,16 +38,16 @@ Before running Pioneer, make sure you have:
 
 ## 🛠️ Installation & Usage
 
-### 1. Clone the Repository
+ 1. Clone the Repository
 ```bash
 git clone https://github.com/hagerezzat401/pioneerproject.git
 cd pioneerproject
 ```
 2. Make the Script Executable
-```
+```bash
 chmod +x pioneerproject.sh
 ```
-4. Run the Script
-```
+3. Run the Script
+```bash
 ./pioneerproject.sh
 
