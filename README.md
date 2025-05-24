@@ -37,10 +37,10 @@ Before running Pioneer, make sure you have:
 - `cron` running on your system.
 
 🛠️ Installation & Usage
-1. Clone the Repository
-git clone https://github.com/YourUsername/pioneerproject.git
-cd pioneerproject
+1. Clone the Repository 
+"git clone https://github.com/YourUsername/pioneerproject.git"
+"cd pioneerproject"
 2. Make the Script Executable
-chmod +x pioneerproject.sh
+"chmod +x pioneerproject.sh"
 3. Run the Script
-./pioneerproject.sh
+"./pioneerproject.sh"
