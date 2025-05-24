@@ -36,11 +36,11 @@ Before running Pioneer, make sure you have:
 - `bash` installed.
 - `cron` running on your system.
 
-## 🚀 How to Use
-
-1. Open your terminal.
-2. Navigate to the folder containing the script file.
-3. Run the script using:
-
-```bash
-bash pioneerproject.sh
+🛠️ Installation & Usage
+1. Clone the Repository
+git clone https://github.com/YourUsername/pioneerproject.git
+cd pioneerproject
+2. Make the Script Executable
+chmod +x pioneerproject.sh
+3. Run the Script
+./pioneerproject.sh
